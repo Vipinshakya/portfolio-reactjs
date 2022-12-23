@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https//Vipinshakya.github.io/portfolio-reactjs/static/css/main.7f388a7e.css",
+    "main.js": "/https//Vipinshakya.github.io/portfolio-reactjs/static/js/main.ca47b43d.js",
+    "static/media/picsart.png.png": "/https//Vipinshakya.github.io/portfolio-reactjs/static/media/picsart.png.1e6fc527af947e69d9f5.png",
+    "static/media/musicapp.png": "/https//Vipinshakya.github.io/portfolio-reactjs/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/vipin shakya__resum.pdf": "/https//Vipinshakya.github.io/portfolio-reactjs/static/media/vipin shakya__resum.5f9adf70efcb14f927e1.pdf",
+    "static/media/hoc.png": "/https//Vipinshakya.github.io/portfolio-reactjs/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/heartemoji.png": "/https//Vipinshakya.github.io/portfolio-reactjs/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/Vector2.png": "/https//Vipinshakya.github.io/portfolio-reactjs/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/https//Vipinshakya.github.io/portfolio-reactjs/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/https//Vipinshakya.github.io/portfolio-reactjs/index.html",
+    "main.7f388a7e.css.map": "/https//Vipinshakya.github.io/portfolio-reactjs/static/css/main.7f388a7e.css.map",
+    "main.ca47b43d.js.map": "/https//Vipinshakya.github.io/portfolio-reactjs/static/js/main.ca47b43d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f388a7e.css",
+    "static/js/main.ca47b43d.js"
+  ]
+}
