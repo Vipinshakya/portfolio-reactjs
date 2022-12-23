@@ -1,0 +1,80 @@
+.intro{
+    display: flex;
+    height: 77vh;
+    margin-top: 96px; 
+}
+.i-left{
+    display: flex;
+    position: relative;
+    flex: 1;
+    flex-direction: column;
+   
+}
+.i-name{
+    display: flex;
+    flex-direction: column;
+    font-weight: bolder;
+    margin-left: 50px;
+}
+.i-name>:nth-child(1){
+    color: var(--black);
+    font-weight: bold;
+    font-size: 60px;
+    margin-left: 10px;
+}
+.i-name>:nth-child(3){
+    font-weight: 100;
+    font-size: 30px;
+    color: var(--gray);
+    margin-top: 10px;
+    margin-left: 14px;
+}
+.button .i-button{
+    align-items: center;
+    padding: 40px;
+    font-size: 20px;
+    
+}
+.name{
+    color: var(--orange);
+    font-size: 40px;
+}
+.i-icons{
+margin-top: 3rem;
+display: flex;
+gap: 40px;
+margin-left: 50px;
+}
+
+.i-right{
+flex: 1;
+position: relative;  
+
+font-size: 20px;
+
+}
+.i-right>*{
+position: absolute;
+z-index: 1;
+}
+.i-right>:nth-child(1){
+    transform: scale(0.69);
+    left: -15%;
+    top: -9%;
+}
+.i-right>:nth-child(2){
+    top: -4rem;
+    transform: scale(0.67);
+    left: -7rem;
+}
+.i-right>:nth-child(3){
+    transform: scale();
+}
+.vip{
+    width: 200px;
+    border-radius: 10%;
+    align-items: center;
+    padding: 10px;
+    margin-left: 10%;
+border: 5px solid black;
+}
